@@ -1,2 +1,2 @@
-# dart-logica-programacao
-  Lógica de Programação com Dart
+# dart-basic-commands
+ Basic commands of the Dart language.
